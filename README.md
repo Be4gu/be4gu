@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cristi Cristea</h1>
+<br>
 <h3 align="center">A passionate frontend developer from Madrid, Spain.</h3>
 
 - 🔭 I’m currently working on [Crosshair.best](https://crosshair.best/miras)
@@ -6,7 +7,7 @@
 - 🌱 I’m currently learning **Next.JS, React.JS and ECharts.JS**
 
 - 📫 How to reach me **ioncristicristea@gmail.com**
-
+<br>
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=angular,react,figma,express,git,bootstrap,css,html,js,mongo,mysql,next,nodejs,tailwind " />
