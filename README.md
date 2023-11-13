@@ -14,6 +14,6 @@
 <br>
 <div align="center">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=be4gu&show_icons=true&theme=radical&locale=en&layout=compact" alt="be4gu" />&nbsp;&nbsp;&nbsp;
-      <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=radical&preferLogin=false&Ring=F8D847">    <img  alt="be4gu's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/be4gu?cardType=github&theme=radical&preferLogin=false&Ring=F8D847" />  </a>   
+    <img align="center"  alt="be4gu's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/be4gu?cardType=github&theme=radical&preferLogin=false&Ring=F8D847" /> 
 
 </div>
