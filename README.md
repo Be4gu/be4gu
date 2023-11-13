@@ -7,11 +7,7 @@
 
 - 📫 How to reach me **ioncristicristea@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center" style="color:blue">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
