@@ -12,5 +12,5 @@ Hi 👋, I'm Cristi Cristea
 ### Languages and Tools
 
 ![](https://skillicons.dev/icons?i=angular,react,figma,express,git,bootstrap,css,html,js,mongo,mysql,next,nodejs,tailwind )
-![be4gu](https://github-readme-stats.vercel.app/api/top-langs?username=be4gu&show_icons=true&theme=radical&locale=en&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=be4gu&show_icons=true&theme=radical&locale=en&layout=compact&card_height=165" alt="be4gu" />
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/be4gu?cardType=github&theme=radical&preferLogin=false&Ring=F8D847)](https://git.io/awesome-stats-card)
